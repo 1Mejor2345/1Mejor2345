@@ -4,7 +4,7 @@
 
 I am a Computer Science undergraduate at ESPOL, bridging the gap between theoretical algorithms and deployable software. I specialize in backend development, artificial intelligence, and software architecture. 
 
-### 💻 Tech Stack:
+💻 Tech Stack:
 * **Languages:** Python, Java
 * **Tools & Frameworks:** Android SDK, Google Cloud Platform, Overleaf (LaTeX)
 
